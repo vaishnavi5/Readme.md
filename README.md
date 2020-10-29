@@ -6,6 +6,13 @@ We are Internal Weather Service team. We help you get the information of current
 
 Below are the endpoint url and Parameter which needs to be used
 
+### References
+
 Endpoint url used = http://api.openweathermap.org/data/2.5/weather?q=London&appid={API key}
 
 Input parameter needs to be given while getting the response = City name. 
+
+
+#### Results
+
+Post putting the input parameter which is the City name it will display the current temperature in degree celcius of any city which you want the results for. 
