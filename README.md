@@ -6,6 +6,6 @@ We are Internal Weather Service team. We help you get the information of current
 
 Below are the endpoint url and Parameter which needs to be used
 
-Endpoint url used is = http://api.openweathermap.org/data/2.5/weather?q=London&appid={API key}
+Endpoint url used = http://api.openweathermap.org/data/2.5/weather?q=London&appid={API key}
 
 Parameter needs to be given while getting the response = City name. 
